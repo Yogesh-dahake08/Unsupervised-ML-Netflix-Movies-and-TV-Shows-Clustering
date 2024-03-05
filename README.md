@@ -6,7 +6,11 @@ This project aims to analyze the Netflix Dataset of movies and TV shows until 20
 
 Moreover, this project seeks to uncover valuable insights and trends in the streaming entertainment industry by analyzing the dataset.
 
+
+
 **Project Overview The project was carried out in the following step-by-step process:**
+
+
 
 
 Handling Null Values: Null values in the dataset were addressed to ensure data integrity and accuracy.
